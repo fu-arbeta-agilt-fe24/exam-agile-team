@@ -25,9 +25,11 @@ I slutet av varje sprint (torsdageftermiddagar) kommer ni att ha en Sprint Revie
 
 Glöm inte att lägga till era produktägare/handledare som collaborators både för ert repo, samt ert projekt på Github. *Santosnr6* och *rachel-zocom* för distansklassen, *Santosnr6* och *Jakob9916* för Karlstadgänget.
 
-Till ert förfogande så har er produktägare redan varit så vänlig att tillgodose er med ett antal färdiga user stories. Tanken med dessa är att ni fram tills på fredag går igenom vad varje user story innebär, försöker sammanfatta vad ni behöver göra för att lösa varje user story, samt skriver acceptanskriterier för era user stories. Därefter utövar ni Agil Estimering för att i slutändan kunna rangordna era User Stories i er Product Backlog. Diskutera sedan vilka 10 User Stories ni vill sikta på att lösa under er första sprint, och flytta dessa till er Sprint Backlog. 
+Till ert förfogande så har er produktägare redan varit så vänlig att tillgodose er med ett antal färdiga user stories. Tanken med dessa är att ni fram tills på fredag går igenom vad varje user story innebär, försöker sammanfatta vad ni behöver göra för att lösa varje user story, samt skriver acceptanskriterier för era user stories. Därefter utövar ni Agil Estimering för att i slutändan kunna rangordna era User Stories i er Product Backlog. Diskutera sedan vilka 10 User Stories ni vill sikta på att lösa under er första sprint, och flytta dessa till er Sprint Backlog. Jag skulle råda er att inte bryta upp dessa user stories ytterligare, men vill ni slippa de långa namnen på era features så kan ni ge dem ett kortare namn, och klista in själva user storyn i beskrivningen istället. Era user stories [hittar ni här](https://github.com/users/Santosnr6/projects/25/views/1).
 
 En viktig sak som jag vill trycka på här är kursmålet rörande *den psykologiska säkerhetens vikt i ett team*. Om ni fastnar på någonting så MÅSTE NI BE OM HJÄLP. En person som fastnar på en uppgift, inte får någonting gjort, ocg stannar upp gruppens progression för att man inte ber gruppen om hjälp kommer INTE få godkänt.
+
+Utöver arbetet kommer ni även att fylla i 2 dokument med reflektioner. En gruppreflektion som ni fyller i tillsammans och som läggs i gruppens gemensamma repo, samt en individuell reflektion som ni fyller i själva och lägger in i ett eget privat repo (alltså inte gruppens arbetsrepo).
 
 ## Handledningar
 
@@ -52,3 +54,28 @@ Om ni vill så kan ni även hämta lite startanvändare genom att göra ett fetc
 ```
 https://santosnr6.github.io/Data/yumyumusers.json
 ```
+
+## Examination
+
+Det ni främst bedöms på i denna kurs är hur väl jag bedömmer att ni uppfyllt er roll i utvecklingsteamet, samt hur bra ni svarar på frågorna i de utvärderingsdokument ni hittar i mappen [reflektioner]('./reflektioner).
+
+För att nå godkänt behöver ni:
+
+* Delta aktivt på minst 10 st gemensamma gruppmöten, med kamera och mikrofon påslagna at all times
+* Sjukanmäla dig både till mig och gruppen, VARJE dag som frånvaro uppstår
+* Delta aktivt i det dagliga arbetet, och bidra till att ni i slutet va varje sprint kan leverera ett fungerande inkrement
+* Svara på de obligatoriska frågorna i både gruppreflektionen, samt den individuella reflektionen
+* Fylla i alla mötesprotokoll
+* Be om hjälp vi behov
+
+För att n Väl Godkänt behöver ni:
+
+* Utförligt svara på de frågor utmärkta med **VG** i den individuella reflektionen
+
+## Inlämning
+
+Ni lämnar in en länk till ert eget privata repo (INTE gruppens repo) på Azomo senast kl 23:59, fredagen den 21/3. 
+I ert privata repo vill jag ha följande:
+
+* En länk till gruppens repo
+* Era individuella reflektioner
