@@ -58,11 +58,11 @@ Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråg
 
 ### VG-frågor (minst 200 tecken)
 
-#### Beskriv minst tre fördelar och motivera varför de är viktiga. Använd exempel från ert projekt för att styrka dina argument.
+#### Beskriv minst tre fördelar med att arbeta agilt och motivera varför de är viktiga. Använd exempel från ert projekt för att styrka dina argument.
 
 (insert answer here...)
 
-#### Beskriv en konkret lösning du föreslagit. Varför ansåg du att den var bäst? Jämför med minst en annan möjlig lösning och förklara varför du inte valde den.
+#### Beskriv en konkret lösning du föreslagit under projektet. Varför ansåg du att den var bäst? Jämför med minst en annan möjlig lösning och förklara varför du inte valde den.
 
 (insert answer here...)
 
