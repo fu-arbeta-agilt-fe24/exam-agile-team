@@ -55,7 +55,7 @@ Om ni vill så kan ni även hämta lite startanvändare genom att göra ett fetc
 https://santosnr6.github.io/Data/yumyumusers.json
 ```
 
-## Examination
+## Bedömning
 
 Det ni främst bedöms på i denna kurs är hur väl jag bedömmer att ni uppfyllt er roll i utvecklingsteamet, samt hur bra ni svarar på frågorna i de utvärderingsdokument ni hittar i mappen [reflektioner]('./reflektioner).
 
@@ -68,7 +68,7 @@ För att nå godkänt behöver ni:
 * Fylla i alla mötesprotokoll
 * Be om hjälp vi behov
 
-För att n Väl Godkänt behöver ni:
+För att nå Väl Godkänt behöver ni:
 
 * Utförligt svara på de frågor utmärkta med **VG** i den individuella reflektionen
 
