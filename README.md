@@ -72,6 +72,10 @@ För att nå Väl Godkänt behöver ni:
 
 * Utförligt svara på de frågor utmärkta med **VG** i den individuella reflektionen
 
+## Gruppkontrakt
+
+Länken till lathunden för gruppkontrakt hittar ni tillsamans med uppgiften på Azomo. Ni behöver inte skicka dessa till mig, MEN se ändå till att skriva dem och få dem godkända av alla i gruppen INNAN ni börjar arbeta. Skulle det vara så att konflikter uppstår som gruppen inte kan lösa själva och ni inte har ett kontrakt, så kommer alla bli underkända.
+
 ## Inlämning
 
 Ni lämnar in en länk till ert eget privata repo (INTE gruppens repo) på Azomo senast kl 23:59, fredagen den 21/3. 
