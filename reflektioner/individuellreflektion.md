@@ -10,7 +10,7 @@ Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråg
 
 (insert answer here...)
 
-#### Hur upplevde inför arbetet att arbeta i team?
+#### Vad var din känsla inför att arbeta i ett team när du gick in i uppgiften?
 
 (insert answer here...)
 
